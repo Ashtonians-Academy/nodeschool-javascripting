@@ -1,2 +1,5 @@
 # nodeschool-javascripting
-Keeping track of myprogress through the javascripting course at nodeschool. 
+Keeping track of my progress through the javascripting course at http://nodeschool.io/. 
+
+Course Source: https://github.com/sethvincent/javascripting
+
